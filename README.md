@@ -36,11 +36,11 @@ __¿Cuál es el genoma que escogiste? Adjunta la referencia.__
 
  Neurospora crassa </em> OR74A. Por un asunto de falta de información, no se escogieron las otras entradas al no encontrarse una publicación de referencia para su genoma, por lo que el genoma OR74A fue el seleccionado al contener una referencia completa (segunda publicación listada).
 
-![Texto Alternativo](http://i.imgur.com/LFXp7vY.png)
+https://www.dropbox.com/s/wbwoqdwj5xjrewl/foto%20de%20pantalla.jpg?dl=0
 
-####Referencia:
+__Referencia:__
 
-#####Maccallum I1, Przybylski D, Gnerre S, Burton J, Shlyakhter I, Gnirke A, Malek J, McKernan K, Ranade S, Shea TP, Williams L, Young S, Nusbaum C, Jaffe DB. (2009). <em>ALLPATHS 2: small genomes assembled accurately and with high continuity from short paired reads.</em> Genome Biol. 2009; 10(10): R103. 
+Maccallum I1, Przybylski D, Gnerre S, Burton J, Shlyakhter I, Gnirke A, Malek J, McKernan K, Ranade S, Shea TP, Williams L, Young S, Nusbaum C, Jaffe DB. (2009). <em>ALLPATHS 2: small genomes assembled accurately and with high continuity from short paired reads.</em> Genome Biol. 2009; 10(10): R103. 
 
 ####4. ¿Cuál es el N50 del genoma que escogiste? ¿Y el NG50?
 #####R.- De acuerdo a la Tabla 1 del artículo (data de referencia), el N50 para <em> N. crassa </em> es de 665 kb. El NG50 no se encuentra listado.
