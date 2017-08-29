@@ -42,13 +42,15 @@ __Referencia:__
 
 Maccallum I1, Przybylski D, Gnerre S, Burton J, Shlyakhter I, Gnirke A, Malek J, McKernan K, Ranade S, Shea TP, Williams L, Young S, Nusbaum C, Jaffe DB. (2009). <em>ALLPATHS 2: small genomes assembled accurately and with high continuity from short paired reads.</em> Genome Biol. 2009; 10(10): R103. 
 
-####4. ¿Cuál es el N50 del genoma que escogiste? ¿Y el NG50?
-#####R.- De acuerdo a la Tabla 1 del artículo (data de referencia), el N50 para <em> N. crassa </em> es de 665 kb. El NG50 no se encuentra listado.
+__¿Cuál es el N50 del genoma que escogiste? ¿Y el NG50?__
+
+De acuerdo a la Tabla 1 del artículo (data de referencia), el N50 para <em> N. crassa </em> es de 665 kb. El NG50 no se encuentra listado.
 
 https://www.dropbox.com/s/fu2njss31uln9i2/foto%20de%20pantalla%202.jpg?dl=0
 
-####5. ¿Qué tipo de tecnología se uso para secuenciar el genoma que escogiste?
-#####R.- En la investigación citada, se utilizaron reads de 36 bases (fragmentos) y 26 bases (jumping) de 5 genomas microbianos con composición GC variable con tamaños hasta 40 Mb. Para secuenciar el genoma de <em>N. crassa</em>, se utilizó la tecnologia ALLPATHS2, el cual es un montador (assembler) de genomas completos el cual puede generar montajes de genomas de alta calidad utilizando reads cortos; y comparando estos resultados al utilizar los algoritmos Velvet (para montajes de genomas <em> de novo </em> y secuencias de alineamiento de reads cortos, utilizado para construir secuencias continuas de forma rápida) y EULER-SR (programa para montaje de reads <em> de novo </em> que contiene programas para la correción de errores en reads cortos). Se demostró que ALLPATHS2, generó montajes con contigs y scaffolds largos y precisos, siendo los programas EULER-SR y Velvet menos precisos.
+¿Qué tipo de tecnología se uso para secuenciar el genoma que escogiste?
+
+En la investigación citada, se utilizaron reads de 36 bases (fragmentos) y 26 bases (jumping) de 5 genomas microbianos con composición GC variable con tamaños hasta 40 Mb. Para secuenciar el genoma de <em>N. crassa</em>, se utilizó la tecnologia ALLPATHS2, el cual es un montador (assembler) de genomas completos el cual puede generar montajes de genomas de alta calidad utilizando reads cortos; y comparando estos resultados al utilizar los algoritmos Velvet (para montajes de genomas <em> de novo </em> y secuencias de alineamiento de reads cortos, utilizado para construir secuencias continuas de forma rápida) y EULER-SR (programa para montaje de reads <em> de novo </em> que contiene programas para la correción de errores en reads cortos). Se demostró que ALLPATHS2, generó montajes con contigs y scaffolds largos y precisos, siendo los programas EULER-SR y Velvet menos precisos.
 
 ####6. ¿Qué organismo escogiste, cuántos cromosomas tiene tu organismo y cuál es su tamaño?
 #####R.- El organismo <em> Neurospora crassa </em>, con un tamaño de genoma de 39226 kb, teniendo 7 cromosomas. 
