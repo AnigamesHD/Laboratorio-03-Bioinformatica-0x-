@@ -14,17 +14,20 @@ __Laboratorio de Bioinformática__
 ####<strong>Responde:
 ####1. ¿Cuántos genomas han sido depositados en GOLD? ¿Son los mismos de GENBANK?
 #####R.-  Al realizar una búsqueda en la base de datos de GOLD sobre el organismo <em>Neurospora crassa</em>, se encontraron 836 genomas depositados, mientras que al realizar la búsqueda del genoma del mismo organismo eucarionte en la base de datos de GENBANK, se encontraron sólo 2 entradas para <em> Neurospora crassa </em>. 
+Al realizar la busqueda en la base de datos de GOLD se encuentraron 64.754 genomas reportados en GOLD (Complete Projects 11.598 and Incomplete Projects 53.156), en tato en relación al GENBAK no son los mismos, ya que en GENBAK se encuentran 80.576
 ####2. ¿Cuál es la distribución de procariontes y eucariontes secuenciados?
-#####R.- En GOLD, para establecer una razón de los organismos secuenciados entre eucariontes y procariontes, se encuentra un total hasta la fecha de 74176; donde las entradas respecto a eucariontes es de 12412, y si para procariontes se incluyen las entradas para bacterias, con un número de 55908 entradas, y archeas con 1231 (ausentando las entradas referentes a virus), se puede establecer una distribución en la razon:
-
-#####(bacterias + archeas)/eucariontes = (55908+1231)/12412 = 57139/12412 = 4,60 ~ 5 ; aproximadamente una razon de 5:1.
+#####R.- En GOLD, para establecer una razón de los organismos secuenciados entre eucariontes y procariontes, se encuentra un total hasta la fecha de  80.576; donde las entradas respecto a eucariontes es de 3.325, y si para procariontes se incluyen las entradas para bacterias, con un número de 68.574 entradas, y archeas con 728 (ausentando las entradas referentes a virus).
 
 ####<strong>-Evaluando un ensamblaje de genomas.
 
 ####<strong>Responde:
+
 ####1. ¿Qué es el N50, L50, NG50?
+
 #####R.- En primer lugar, el N50 es una medida estadística que define la calidad un montaje de secuencias, que dado un conjunto de contigs con longitudes definidas, el N50 es la longitud más corta de la secuencia al 50% del genoma, es decir, que el número de bases de todos los contigs más cortos que el N50 serán más cercanas al número de bases de todos los contigs más largos al N50. El L50 por su parte, que dado un set de contigs y cada uno con su propio largo, esta medida corresponde al menor número de contigs cuya sumatoria de los largos produce el N50. El NG50, es una medida estadística similar al N50, excepto que corresponde al 50% del tamaño del genoma conocido o estimado, que debe de ser la longitud del NG50 o más largo. 
+
 ####2. ¿Cuál es el propósito de calcular estas estadísticas?
+
 #####R.- El propósito del cálculo de estas estadísticas, es que al utilizarse en un conjunto de longitudes contigs o scaffolds, el N50 es como la media o mediana de las longitudes, pero tiene una mayor importancia por sobre los contigs más largos, utilizándose mayoritariamente para montaje de genomas, especialmente para referenciar longitudes contigs dentro de un montaje preliminar. El L50 se utiliza al corresponder al número de contigs cuya suma de longitudes resulta en el N50. Y sobre el NG50, permite comparaciones significativas entre distintos montajes al referirse más hacia el tamaño del genoma que el tamaño del montaje como lo hace N50, donde la comparación entre valores N50 derivados de montajes con longitudes bastante diferentes, usualmente no es informativo, por lo que se recurre en este contexto al NG50.
 ####3. ¿Cuál es el genoma que escogiste? Adjunta la referencia.
 #####R.- <em> Neurospora crassa </em> OR74A. Por un asunto de falta de información, no se escogieron las otras entradas al no encontrarse una publicación de referencia para su genoma, por lo que el genoma OR74A fue el seleccionado al contener una referencia completa (segunda publicación listada).
