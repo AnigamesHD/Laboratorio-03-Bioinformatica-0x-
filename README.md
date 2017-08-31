@@ -60,7 +60,7 @@ En la investigación citada, se utilizaron reads de 36 bases (fragmentos) y 26 b
 ####1.	¿Cuántos ORF o genes encontró ORFfinder?
 #####R.- ORFfinder encontró 4 ORFs o genes.
 
-![Texto Alternativo](http://i.imgur.com/rdcC6Bu.png)
+https://www.dropbox.com/s/p5bowtvjotkmpqs/fot.jpg?dl=0
 
 ####2.	¿Cuántos ORF o genes encontró Glimmer?
 #####R.- GLIMMER encontró 3 ORFs o genes.
