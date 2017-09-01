@@ -58,14 +58,14 @@ En la investigación citada, se utilizaron reads de 36 bases (fragmentos) y 26 b
 ####<strong>Parte 2: Predicción de genes
 ####<strong>Responde:
 ####1.	¿Cuántos ORF o genes encontró ORFfinder?
-#####R.- ORFfinder encontró 4 ORFs o genes.
+#####R.- ORFfinder encontró 7 ORFs o genes.
 
 https://www.dropbox.com/s/p5bowtvjotkmpqs/fot.jpg?dl=0
 
 ####2.	¿Cuántos ORF o genes encontró Glimmer?
-#####R.- GLIMMER encontró 3 ORFs o genes.
+#####R.- GLIMMER encontró 10 ORFs o genes.
 
-![Texto Alternativo](http://i.imgur.com/D6dsL9U.png)
+https://www.dropbox.com/s/d4kqqwn1563jqqn/Captura%20de%20pantalla%202017-09-01%20a%20la%28s%29%2016.47.49.png?dl=0
 
 ####3.	¿Alguno de los genes predichos por estas herramientas coinciden?
 #####R.- Para establecer coincidencias entre ambos programas, deben de poseer un mismo inicio/final y marco de lectura (frame), por lo que coinciden en el primer ORF/gen que ambos encontraron, empezando en 1 y terminando en 909, con +1 en el marco de lectura. Otra coincidencia, es en la cual en ORFfinder se muestra de 1391 a 1795, mientras que en GLIMMER, comienza en 1795 y termina en 1391, ambos con un marco de lectura de -2. Esta aparente diferencia en el inicio/final del ORF/gen, puede deberse a que en GLIMMER, si el transcrito se ubica en la hebra complementaria, la lectura será negativa al estar en la hebra negativa, por lo que la lectura se muestra en dirección reversa; de la misma manera en ORFfinder, si se selecciona el ORF/gen con un frame negativo, la secuencia mostrada en la parte inferior también da a conocer un marco de lectura inverso, por lo que sí coinciden en ese ORF/gen. Por otra parte, el ORF/gen que comienza en 1388 y termina en 948, coinciden en ambos programas en el largo y dirección, pero el marco de lectura es -2 en ORFfinder y en GLIMMER -3.
