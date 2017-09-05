@@ -70,11 +70,11 @@ https://www.dropbox.com/s/d4kqqwn1563jqqn/Captura%20de%20pantalla%202017-09-01%2
 
 __¿Alguno de los genes predichos por estas herramientas coinciden?__
 
-Para establecer coincidencias entre ambos programas, deben de poseer un mismo inicio/final y marco de lectura (frame), pero pese a esto solo se encuentra coincidencia en el primer ORF/gen que ambos encontraron,  terminan en 909, con +1 en el marco de lectura pero no comienzan ambos en 1, en el cual también se esperaba que algunos ORF/gen con GLIMMER presentaran coincidencias inversas con el arguemnto de que en GLIMMER, si el transcrito se ubica en la hebra complementaria, la lectura será negativa al estar en la hebra negativa, por lo que la lectura se muestra en dirección reversa; pero en si no se encontro estas coincidencias en los genes predichos
+Para establecer coincidencias entre ambos programas, deben de poseer un mismo inicio/final y marco de lectura (frame), pese a esto solo se encuentra coincidencia en el primer ORF/gen en que ambos encontrados terminan en 909, con +1 en el marco de lectura pero no comienzan ambos en 1, en el cual también se esperaba que algunos ORF/gen con GLIMMER presentaran coincidencias inversas con el argumento de que en GLIMMER, si el transcrito se ubica en la hebra complementaria, la lectura será negativa al estar en la hebra negativa, por lo que la lectura se muestra en dirección reversa; pero en sí no se encontró estas coincidencias en los genes predichos.
 
 __¿En qué hebra están codificados?__
 
-En ORFfinder, el primero se ubica en la hebra directa, al ir de 1-->909, mientras que las otras, se ubican en la hebra complementaria al tener un marco de lectura reverso. En GLIMMER, se ubican en la hebra complementaria como por ejemple los orf002 y orf003 al ir de 1884-->909 y 1436-->948, respectivamente.
+En ORFfinder, el primero se ubica en la hebra directa, al ir de 1-->909, mientras que las otras, se ubican en la hebra complementaria al tener un marco de lectura reverso. En GLIMMER, se ubican en la hebra complementaria como por ejemplo los orf0002 y orf0003 al ir de 1884-->909 y 1436-->948, respectivamente.
 
 __¿Qué tipo de programa es GLIMMER? ¿Ab initio o por homología?__
 
