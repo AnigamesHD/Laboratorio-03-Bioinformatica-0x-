@@ -30,7 +30,7 @@ El propósito del cálculo de estas estadísticas, es que al utilizarse en un co
 
 __¿Cuál es el genoma que escogiste? Adjunta la referencia.__
 
- Neurospora crassa </em> OR74A. Por un asunto de falta de información, no se escogieron las otras entradas al no encontrarse una publicación de referencia para su genoma, por lo que el genoma OR74A fue el seleccionado al contener una referencia completa (segunda publicación listada).
+<em> Neurospora crassa </em> OR74A. Por un asunto de falta de información, no se escogieron las otras entradas al no encontrarse una publicación de referencia para su genoma, por lo que el genoma OR74A fue el seleccionado al contener una referencia completa (segunda publicación listada).
 
 https://www.dropbox.com/s/wbwoqdwj5xjrewl/foto%20de%20pantalla.jpg?dl=0
 
