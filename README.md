@@ -74,7 +74,7 @@ Para establecer coincidencias entre ambos programas, deben de poseer un mismo in
 
 __¿En qué hebra están codificados?__
 
-En ORFfinder, el primero se ubica en la hebra directa, al ir de 1-->909, mientras que las otras, se ubican en la hebra complementaria al tener un marco de lectura reverso. En GLIMMER, se ubican en la complementaria como por ejemple los orf002 y orf003 al ir de 1884-->909 y 1436-->948, respectivamente.
+En ORFfinder, el primero se ubica en la hebra directa, al ir de 1-->909, mientras que las otras, se ubican en la hebra complementaria al tener un marco de lectura reverso. En GLIMMER, se ubican en la hebra complementaria como por ejemple los orf002 y orf003 al ir de 1884-->909 y 1436-->948, respectivamente.
 
 __¿Qué tipo de programa es GLIMMER? ¿Ab initio o por homología?__
 
