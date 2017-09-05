@@ -1,4 +1,4 @@
-# Laboratorio-03-Bioinformatica
+# Laboratorio-03-Bioinformática
 
 ## Nombre: Byron Guzmán Marín
 
